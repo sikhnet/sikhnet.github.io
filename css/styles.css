@@ -11286,3 +11286,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+/**** SikhNet ****/
+.main-content img {
+  width: 40%;
+  padding-bottom: 20px;
+}
